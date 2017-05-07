@@ -1,4 +1,4 @@
-Capstone Project: Tumor Diagnosis using Machine Learning
+Tumor Diagnosis using Machine Learning algorithms
 
 documentations included:
  - dataset spreadsheet(Cancer_Data.csv)
